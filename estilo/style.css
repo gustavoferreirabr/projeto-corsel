@@ -72,7 +72,7 @@ main{
     height: 300px;
     font-family: var(--font-conteudo);
     padding: 10px;
-    font-size: 26px;
+    font-size: 4.5vw;
     color: white;
     width: 100%;
     line-height: 1.7;
@@ -107,7 +107,7 @@ main{
     height: 345px;
     font-family: var(--font-conteudo);
     padding: 10px;
-    font-size: 26px;
+    font-size: 4.5vw;
     color: white;
     width: 100%;
     line-height: 1.7;
